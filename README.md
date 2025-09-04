@@ -1,8 +1,42 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # My Name is Abdul Rahman 
 
 🎯 **Full-Stack Developer | AI Enthusiast**
 
-I specialize in building robust and scalable web and mobile applications using modern technologies. I'm passionate about clean code, open-source
+I specialize in building robust and scalable web and mobile applications using modern technologies. I'm passionate about clean code, good programing
+practic
+
 
 ## 🚀 Tech Stack
 
